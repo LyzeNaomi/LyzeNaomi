@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LyzeNaomi
 - 👀 I’m interested in AI/ML applied to health and finance
-- 🌱 I’m currently learning AI fundamentals and implementations, more specifically neural networks
-- 💞️ I’m looking to collaborate on RNNs, transformer networks
+- 🌱 I’m currently learning AI applications and implementations, more specifically neural networks
+- 💞️ I’m looking to collaborate on sequential networks
 - 📫 Reach me at naomiewamba@gmail.com
 
 <!---
